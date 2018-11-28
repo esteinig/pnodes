@@ -10,7 +10,5 @@ Python 3.6+
 
 ### Usage
 
-```python
-pnodes list
-pnodes total
-```
+`pnodes list`
+
